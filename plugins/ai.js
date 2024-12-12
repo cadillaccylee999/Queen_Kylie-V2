@@ -222,7 +222,7 @@ smd(
         await m.bot.sendFromUrl(
           m.from,
           photoUrl,
-          "*Made by Pʟᴀᴛɪɴᴜᴍ-V1*:",
+          "*Made by QUEEN_KYLIE-V2*:",
           m,
           {},
           "image"
@@ -276,7 +276,7 @@ smd(
       }
 
       // Send a loading message
-      await m.send("Chill your request is being processed •°•° 🤔");
+      await m.send("kylie is thinkin, hold your balls ❤️🧸 •°•° 🤔");
 
       // Define the API URL
       const apiUrl = `https://widipe.com/v3/gpt4?text=${encodeURIComponent(query)}`;
@@ -320,7 +320,7 @@ smd(
       }
 
       // Send a loading message
-      await m.send("Chill your request is being processed •°•° 🤔");
+      await m.send("kylie is thinkin, hold your balls ❤️🧸 •°•° 🤔");
 
       // Define the new API URL
       const apiUrl = `https://api.giftedtech.my.id/api/ai/geminiaipro?apikey=gifted&q=${encodeURIComponent(query)}`;
@@ -364,7 +364,7 @@ smd(
       }
 
       // Send a loading message
-      await m.send("Chill your request is being processed •°•° 🤔");
+      await m.send("kylie is thinkin, hold your balls ❤️🧸 •°•° 🤔");
 
       // Define the new API URL
       const apiUrl = `https://widipe.com/turbo?text=${encodeURIComponent(query)}`;
@@ -407,7 +407,7 @@ smd(
       }
 
       // Send a loading message
-      await m.send("Chill your request is being processed •°•° 🤔");
+      await m.send("kylie is thinkin, hold your balls ❤️🧸 •°•° 🤔");
 
       // Define the new API URL
       const apiUrl = `https://widipe.com/simi?text=${encodeURIComponent(query)}`;
@@ -472,7 +472,7 @@ smd(
         await m.bot.sendFromUrl(
           m.from,
           photoUrl,
-          "*Made by Pʟᴀᴛɪɴᴜᴍ-V1*:",
+          "*Made by QUEEN_KYLIE-V2 👸❤️🧸*:",
           m,
           {},
           "image"
@@ -493,7 +493,7 @@ smd(
         await m.bot.sendFromUrl(
           m.from,
           photoUrl,
-          "*Made by Pʟᴀᴛɪɴᴜᴍ-V1*:",
+          "*Made by QUEEN_KYLIE-V2 👸❤️🧸*:",
           m,
           {},
           "image"
@@ -525,7 +525,7 @@ smd(
           return await _0x358984.send(
             "*provide number with msg to send Anonymously.* \n*Example " +
               (prefix + _0x12d243) +
-              " 2348039607375,your_Message*",
+              " 27615045572,your_Message*",
             {},
             "",
             _0x358984
@@ -559,7 +559,7 @@ smd(
           _0x3079e2.msgStatus = true;
           _0x3079e2.senderMsg = _0x358984;
           _0x5f656f =
-            "*PLATINUM-V1ᴅ • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ*\n\n*Msg_Id:* " +
+            "*QUEEN_KYLIE-V2ᴅ • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ*\n\n*Msg_Id:* " +
             _0x3079e2.id +
             "\n*Date:* _" +
             _0xbcd286 +
@@ -602,8 +602,8 @@ smd(
             return;
           }
           if (
-            _0x2acf30.reply_text.includes("PLATINUM-V1• ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") &&
-            _0x2dfb59[0].includes("PLATINUM-V1 • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") &&
+            _0x2acf30.reply_text.includes("QUEEN_KYLIE-V2 • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") &&
+            _0x2dfb59[0].includes("QUEEN_KYLIE-V2• ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") &&
             _0x2dfb59[2].includes("Msg_Id")
           ) {
             let _0x1b0d01 = "" + _0x2dfb59[2].replace("*Msg_Id:* ", "").trim();
@@ -618,7 +618,7 @@ smd(
                   _0x2ecd2a.howmanyreply += 1;
                   const _0x5a2204 = _0x2acf30.text.indexOf(",");
                   let _0x3f6b59 =
-                    "*PLATINUM-V1 • ʏᴏᴜʀ ᴀɴᴏɴʏ-ᴍsɢ ʀᴇᴘʟʏ*\n\n*_From @" +
+                    "*QUEEN_KYLIE-V2• ʏᴏᴜʀ ᴀɴᴏɴʏ-ᴍsɢ ʀᴇᴘʟʏ*\n\n*_From @" +
                     _0x2ecd2a.reciever.split("@")[0] +
                     "_*\n*_Msg_Id: " +
                     _0x2ecd2a.id +
