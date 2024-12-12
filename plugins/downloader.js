@@ -171,7 +171,7 @@ smd(
 *Account Created:* ${created_at}
 *Last Updated:* ${updated_at}
 
-\t*Platinum-V1 GitHub STALKER*
+\t*QUEEN_KYLIE-V2 GitHub STALKER*
 `;
 
       await m.bot.sendFromUrl(m.from, profile_pic, caption, m, {}, "image");
